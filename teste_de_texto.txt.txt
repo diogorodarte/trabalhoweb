@@ -1,0 +1,1 @@
+Este aquivo é um texto de adicionamento na pasta local do computador para subir para o repositório GitHub na Internet.
